@@ -1,12 +1,12 @@
 [submodule "airdrop"]
 	path = airdrop
-	url = git@github.com:solana-turbin3/Q2_25_Builder_Rahul_Bhati.git
+	url = git@github.com:Rahul-Bhati/turbin3-task-1.git
 [submodule "launch-your-token"]
 	path = launch-your-token
 	url = git@github.com:solana-turbin3/Q2_25_Builder_Rahul_Bhati.git
 [submodule "rust-task"]
 	path = rust-task
-	url = git@github.com:solana-turbin3/Q2_25_Builder_Rahul_Bhati.git
+	url = git@github.com:Rahul-Bhati/turbin3-task-2-Rust.git
 [submodule "solana-starter"]
 	path = solana-starter
 	url = git@github.com:solana-turbin3/Q2_25_Builder_Rahul_Bhati.git
