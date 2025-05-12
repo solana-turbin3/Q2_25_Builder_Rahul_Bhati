@@ -13,3 +13,6 @@
 [submodule "vault-week2-q2-2025"]
 	path = vault-week2-q2-2025
 	url = git@github.com:Rahul-Bhati/vault_anchor_program_week_2_q2_2025.git
+[submodule "Liquidity-Reward-Bot"]
+	path = Liquidity-Reward-Bot
+	url = https://github.com/Rahul-Bhati/Liquidity-Reward-Bot
